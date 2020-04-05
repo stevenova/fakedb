@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "id": "M-04081",
+	    "messages": [
+		{ "text": "M-04081 Medium traje amarillo con verde. Tiene reservas para tal a tal, tal a tal" }
+	    ],
+	    "actions": [
+		{
+		    "type": "set_variable",
+		    "data": {
+			"rentStart": "2020-08-08",
+			"rentEnd": "2020-08-09"
+		    }
+		}
+	    ]
+        }
+    ],
+    "events": [
+    ]
+}
